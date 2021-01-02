@@ -1,0 +1,264 @@
+@media screen and (min-width:350px) and (max-width:550px)
+{
+
+    .topbar{
+        display: none;
+    }
+
+
+    nav h1{
+        margin-left: 5%;
+        font-size: 28px;
+    }
+
+    .ul2{
+        display: none;
+    }
+     .hero{
+         height: 100vh;
+         background-size: 100% 100%;
+         
+
+     }
+
+     .magnificent{
+         width: 90%;
+         left: 5%;
+         /* text-align: center; */
+     }
+
+     .magnificent h1{
+         font-size:28px;
+         line-height: 35px;
+     }
+
+     .feature{
+         height: 200vh;
+         /* border: 1px solid red; */
+     }
+
+     .feature h1{
+         font-size: 28px;
+     }
+
+     .feature hr{
+        left: 40%;
+     }
+
+     .f-inner1{
+         flex-direction: column;
+         top: 8%;
+         height: 160vh;
+         width: 90%;
+         left: 5%;
+         /* border: 1px solid; */
+     }
+
+     .heighly{
+         width: 100%;
+         /* margin-left: 5%; */
+         height: 280px;
+         box-shadow: 0px 0px 2px gray;
+     }
+
+
+     .cloud{
+         margin-top: 20px;
+     }
+
+
+     .navy-blue{
+         height: 65vh;
+     }
+
+     .navy-blue h1{
+         font-size: 35px;
+         text-align: center;
+     }
+
+
+     .our-work{
+         height: 280vh;
+     }
+
+     .h1div h1{
+         font-size: 28px;
+         text-align: center;
+     }
+
+     .galery{
+         width: 90%;
+         left: 5%;
+         height: 120vh;
+         flex-direction: column;
+     }
+
+     .galery-1{
+         width: 100%;
+      
+     }
+
+
+     .portfolio h2{
+         font-size: 20px;
+         font-family: sans-serif;
+         /* margin-top: 80px; */
+     }
+     .portfolio p{
+         line-height: 35px;
+         font-family: sans-serif;
+     }
+
+    
+
+    .offer-you{
+        height: 225vh;
+    }
+
+    .offer-1{
+        width: 90%;
+        left: 5%;
+        height: 100vh;
+        flex-direction: column;
+    
+    }
+
+    .performanc{
+        width: 100%;
+    }
+
+    .performanc h2{
+        margin-top: -20px;
+    }
+
+
+
+    .about-us{
+        height: 235vh;
+    }
+
+    .about-1{
+        width: 90%;
+        left: 5%;
+        height: 200vh;
+        flex-direction: column;
+    }
+
+    .corey{
+        width: 100%;
+    }
+
+    .client{
+        height: 110vh;
+    }
+
+    .brand{
+        width: 90%;
+        height: 70vh;
+        left: 5%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .our-team{
+
+        height: 540vh;
+    }
+
+    .team1{
+        width: 90%;
+        left: 5%;
+        height: 500vh;
+        flex-direction: column;
+        /* border: 1px solid; */
+    }
+    .team1-1{
+        width: 100%;
+        height: 1480vh;
+        /* border: 1px solid; */
+    }
+
+    .team1-1 img{
+        height: 460px;
+    }
+
+
+    .posts{
+        height: 570vh;
+    }
+
+    .post1{
+       width: 90%;
+       left: 5%;
+       
+    }
+
+    .hello-world{
+        width: 100%;
+    }
+
+    .hello-world1{
+        height: 580px;
+    }
+
+
+    .hello-world2{
+       left: 0;
+       top: 2%;
+       
+    }
+
+    .social-netwok{
+        left: 0;
+        top: 4%;
+        /* border: 1px solid; */
+    }
+
+
+    .post2{
+        top:80px;
+    }
+
+    .hello-world5{
+        left: 0;
+        top: 2%;
+    }
+
+
+    .contact-us{
+        height: 20vh;
+        top: 50px;
+
+    }
+
+    footer{
+        height: 155vh;
+    }
+
+    .footer1{
+        height: 140vh;
+        flex-direction: column;
+    }
+
+    .footer1-1{
+        width: 90%;
+        left: 5%;
+        top: 0;
+    }
+
+    
+
+    .footer1-2{
+        height: 10vh;
+    }
+
+
+    .footer1-3{
+        height: 50vh;
+        /* border: 1px solid; */
+    }
+
+
+
+}

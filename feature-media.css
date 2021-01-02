@@ -1,0 +1,62 @@
+@media screen and (min-width:350px) and (max-width:550px){
+
+    .topbar{
+        display: none;
+    }
+
+    nav h1{
+        margin-left: 5%;
+    }
+
+    nav .ul2{
+        display: none;
+    }
+
+    .posts{
+        height: 330vh;
+        width: 90%;
+        left: 5%;
+    }
+
+    .post-1{
+        width: 100%;
+        left: 0%;
+        height: 222vh;
+    
+    }
+
+    .post-2{
+        width: 100%;
+        height: 95vh;
+        left: 0;
+        top: 50px;
+    }
+
+
+    footer{
+        height: 165vh;
+        clear: both;
+    }
+
+    .footer1{
+        height: 150vh;
+        flex-direction: column;
+
+    }
+
+    .footer1-1{
+        width: 90%;
+        left: 5%;
+        top: 20px;
+        /* border: 1px solid; */
+    }
+
+    .footer1-2{
+        height: 10vh;
+    }
+
+
+
+
+
+}

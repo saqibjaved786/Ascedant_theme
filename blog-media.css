@@ -1,0 +1,68 @@
+@media screen and (min-width:350px) and (max-width:550px){
+
+    .topbar{
+        display: none;
+    }
+
+    .ul2{
+        display: none;
+    }
+
+    nav h1{
+        margin-left:5%;
+    }
+
+    .posts{
+        height: 595vh;
+    }
+
+    .post1{
+        width: 90%;
+        left: 5%;       
+    }
+
+    .hello-world{
+        width: 100%;
+    }
+    .hello-world2{
+        width: 100%;
+        left: 0%;
+        top: 10px;
+    }
+
+    .social-netwok{
+        left: 0;
+        top: 20px;
+    }
+
+    .hello-world5{
+        top: 10px;
+        left: 0%;
+
+    }
+
+    footer{
+        height: 165vh;
+    }
+
+    .footer1{
+        height: 150vh;
+        flex-direction: column;
+    }
+
+    .footer1-1{
+        width: 90%;
+        left: 5%;
+        top: 10px;
+        /* border: 1px solid; */
+    }
+
+    .footer1-2{
+        height: 10vh;
+        
+    }
+
+
+
+
+}
